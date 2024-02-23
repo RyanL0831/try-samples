@@ -1,0 +1,108 @@
+repo_name: RyanL0831/try-samples
+report_id: 14c1def5e5928c7c3a7d9b9795d631a9
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-23T22:09:52+00:00'
+requested_by: BillWagner
+provider: github
+branch: main
+detected_tools_count: 8
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/RyanL0831/try-samples
+  detection_source: Repo Metadata
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '3.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/RyanL0831/try-samples/blob/main/101-linq-samples/src/Try101LinqSamples.csproj
+  detection_source: 101-linq-samples/src/Try101LinqSamples.csproj
+  last_updated_by: Bill Wagner
+  last_updated_on: 2019-09-21 19:37:26.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: '3.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/RyanL0831/try-samples/blob/main/101-linq-samples/src/Try101LinqSamples.csproj
+  detection_source: 101-linq-samples/src/Try101LinqSamples.csproj
+  last_updated_by: Bill Wagner
+  last_updated_on: 2019-09-21 19:37:26.000000000 Z
+- name: Azure Pipelines
+  description: Continuously build, test, and deploy to any platform and cloud
+  website_url: https://azure.microsoft.com/ko-kr/services/devops/pipelines/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/10164/528389819366_e7a0672f0480b3e98d21_512.png
+  detection_source_url: https://github.com/RyanL0831/try-samples/blob/main/azure-pipelines.yml
+  detection_source: azure-pipelines.yml
+  last_updated_by: Ravi Chande
+  last_updated_on: 2019-06-20 19:37:54.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/RyanL0831/try-samples
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/RyanL0831/try-samples
+  detection_source: Repo Metadata
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/RyanL0831/try-samples/blob/main/101-linq-samples/src/Try101LinqSamples.sln
+  detection_source: 101-linq-samples/src/Try101LinqSamples.sln
+  last_updated_by: Bill Wagner
+  last_updated_on: 2019-09-21 19:37:26.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/RyanL0831/try-samples
+  detection_source: Repo Metadata
